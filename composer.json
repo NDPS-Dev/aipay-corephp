@@ -1,0 +1,20 @@
+{
+    "name": "ndps/aipay-corephp",
+    "description": "NTT DATA Payment Services AIPAY Core PHP Composer package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "NDPS": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NTT DATA Payment Services India"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    }
+}
