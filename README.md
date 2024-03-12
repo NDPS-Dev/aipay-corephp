@@ -9,7 +9,7 @@ Official AIPAY-CorePHP library of NTT DATA Payment Service.
    ```  
    composer require ndps/corephp:dev-main  
    ```
-- If you are not using composer, download the latest release from the releases section. You should download the aipay-corephp.zip file from atomlite/aipay-corephp. And place in vendor folder.  
+- If you are not using composer, download the latest release from the releases section. You should download the aipay-corephp.zip file from [NDPS-Dev/aipay-corephp](https://github.com/NDPS-Dev/aipay-corephp). And place in vendor folder.  
 
 ## How To Use It
 - To open the payment popup, we need to call the JavaScript function **openPay()** from below JavaScript CDN.   
