@@ -7,7 +7,7 @@ Official AIPAY-CorePHP library of NTT DATA Payment Service.
 ## Installation
 - If your project using composer, run the below command   
    ```  
-   composer require ndps/corephp:dev-main  
+   composer require ndps/aipay-corephp dev-master  
    ```
 - If you are not using composer, download the latest release from the releases section. You should download the aipay-corephp.zip file from [NDPS-Dev/aipay-corephp](https://github.com/NDPS-Dev/aipay-corephp). And place in vendor folder.  
 
